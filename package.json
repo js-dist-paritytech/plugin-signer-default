@@ -1,6 +1,6 @@
 {
   "name": "@parity/plugin-signer-default",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Default Signer plugin handler",
   "main": "index.js",
   "scripts": {
@@ -43,7 +43,7 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^6.0.1",
     "eslint-plugin-promise": "^4.0.1",
-    "eslint-plugin-react": "^7.6.1",
+    "eslint-plugin-react": "^7.11.1",
     "eslint-plugin-standard": "^3.1.0",
     "prop-types": "^15.6.2",
     "sinon": "^7.1.1",
@@ -51,7 +51,7 @@
     "stylelint-config-standard": "^18.2.0"
   },
   "dependencies": {
-    "@parity/ui": "^3.1.2",
+    "@parity/ui": "^3.1.14",
     "lodash": "^4.17.11",
     "react-intl": "^2.7.2",
     "semantic-ui-react": "^0.83.0"
