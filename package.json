@@ -1,6 +1,6 @@
 {
   "name": "@parity/plugin-signer-default",
-  "version": "1.2.55",
+  "version": "1.2.56",
   "description": "Default Signer plugin handler",
   "main": "index.js",
   "scripts": {
@@ -53,7 +53,7 @@
   "dependencies": {
     "@parity/ui": "^3.1.28",
     "lodash": "^4.17.15",
-    "react-intl": "^2.9.0",
+    "react-intl": "^3.0.0",
     "semantic-ui-react": "^0.87.3"
   },
   "peerDependencies": {
